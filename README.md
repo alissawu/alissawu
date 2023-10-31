@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alissawu
-- 👀 I’m interested in data science and artificial intelligence
+- 👀 I’m interested in software engineering, data science, and artificial intelligence
 - 🌱 I’m currently learning Python and C++. 
-- 💞️ I never really learned to use github in the past, but I'll upload my past projects once I have more time!
+- 💞️ I never really used github in the past, but I'll upload my past projects once I have more time!
 
 <!---
 alissawu/alissawu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
