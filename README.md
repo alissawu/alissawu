@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alissawu
 - 👀 I’m interested in software engineering, data science, and artificial intelligence
-- 🌱 I’m currently learning Python and C++. 
+- 🌱 I’m currently working on app development (in React and maybe Python). 
 - 💞️ I didn't use git much in the past. I'm working on uploading my old work!
 
 <!---
