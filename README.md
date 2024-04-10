@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alissawu
 - 👀 I’m interested in software engineering, data science, and artificial intelligence
-- 🌱 I’m currently working on machine learnign projects.
+- 🌱 I’m currently working on machine learning projects.
 - 💞️ I'm working on uploading my old work!
 
 <!---
