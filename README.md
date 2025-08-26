@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alissawu
 - 👀 I’m interested in software engineering, data science, and artificial intelligence
-- 🫧 I've done full-stack (more front-end)/ML
-- 🌱 I’m currently working on machine learning and full-stack projects. 
+- 🫧 I do full-stack, data science, some ML
+- 🌱 I’m currently working on [secretive]
 - 💞️ Follow me for project updates! ^^
   
 
