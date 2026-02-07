@@ -4,7 +4,6 @@
 - 🌱 I’m currently working on learning C++, getting better at Typescript
 - 💞️ Follow me for project updates! ^^
 
-(PS: I've removed my name from the bio as per the requirements of an Agile SWE course I'm in)
 
 <!---
 alissawu/alissawu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
