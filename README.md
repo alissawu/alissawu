@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alissa Wu
 - 👀 I’m interested in software engineering, data science, and artificial intelligence
 - 🫧 I do full-stack, data science, some ML
-- 🌱 I’m currently working on learning C++, getting better at Typescript
+- 🌱 I’m currently working on building the new SOTA for a market w only outdated competitors >:3
 - 💞️ Follow me for project updates! ^^
 
 
