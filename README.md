@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alissa Wu
-- 👀 I’m interested in software engineering, data science, and artificial intelligence
-- 🫧 I do full-stack, data science, some ML
-- 🌱 I’m currently working on: the new SOTA for a market w only outdated competitors >:3
+- 👀 I'm interested in performance optimizations, convenience-as-a-moat, and ai alignment (if a CAIAC member gave me a max the misaligned cat drawing / poster, i'd be very happy. open offer)
+- 🫧 I have a background in software engineering, data science, and (limited) ML
+- 🌱 I’m currently working on: SOTA of its market cool secret thing!!!
 - 💞️ Follow me for project updates! ^^
 
 
