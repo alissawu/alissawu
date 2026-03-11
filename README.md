@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alissa Wu
-- 👀 I'm interested in performance optimizations, convenience-as-a-moat, and ai alignment (if a CAIAC member gave me a max the misaligned cat drawing / poster, i'd be very happy. open offer)
+- 👀 I'm interested in performance optimal code, convenience-as-a-moat, nightcore, and ai alignment. I have a pic with CAIAC's mascot, max the cat of ai alignment :3
 - 🫧 I have a background in software engineering, data science, and (limited) ML
 - 🌱 I’m currently working on: SOTA of its market cool secret thing!!!
 - 💞️ Follow me for project updates! ^^
